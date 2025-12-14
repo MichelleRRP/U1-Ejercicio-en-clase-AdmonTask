@@ -1,6 +1,6 @@
 Este proyecto implementa una API RESTful sencilla para gestionar tareas (To-Do List), construida utilizando Node.js y el framework Express. La arquitectura sigue el patrón Modelo-Controlador-Ruta (MCR) para asegurar la modularidad y el fácil mantenimiento del código.
 
-🚀 Instalación y Puesta en MarchaSigue estos pasos para levantar el proyecto en tu entorno local.
+Instalación 
 
 ---------------------
 Prerrequisitos
